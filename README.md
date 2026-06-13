@@ -32,7 +32,7 @@ Through this project, I gained hands-on experience with:
 
 ## Live Demo
 
-🔗 [Visit the Live Website](currency-converter-kartik.vercel.app)
+🔗 [Visit the Live Website](https://currency-converter-kartik.vercel.app/)
 
 ## Current Limitations
 
