@@ -112,6 +112,7 @@ p {
     }
     input {
         width: 70vmin;
+        height: 7vmin;
         font-size: 4vmin;
     }
     select {
@@ -123,14 +124,15 @@ p {
         font-size: 5vmin;
     }
     button {
-        height: 9vmin;
+        height: 10vmin;
         margin-top: 7vmin;
+        font-size: 3.5vmin;
     }
     .conversion {
         padding-top: 5vmin;
     }
     .amount {
-        padding-top: 7vmin;
+        padding-top: 9vmin;
     }
     .converted-val {
         font-size: 4vmin;
