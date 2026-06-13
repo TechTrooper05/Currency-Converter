@@ -9,7 +9,7 @@ The project was created to strengthen my understanding of JavaScript, API integr
 * Real-time currency conversion
 * Dynamic currency selection
 * Live exchange rate data via API
-* Clean and user-friendly interface
+* Clean and user-friendly interface (Currently supports Laptop users only)
 
 ## Technologies Used
 
@@ -32,7 +32,7 @@ Through this project, I gained hands-on experience with:
 
 ## Live Demo
 
-🔗 Add your Vercel deployment link here
+🔗 currency-converter-kartik.vercel.app
 
 ## Current Limitations
 
@@ -40,7 +40,7 @@ Through this project, I gained hands-on experience with:
 
 * The layout is currently optimized primarily for laptop and desktop screen ratios.
 * The website may not display correctly on all mobile phones, tablets, or other screen sizes.
-* Country flag support is currently limited and does not yet cover all available currencies.
+* Country flag support is currently not available.
 * Further responsiveness and UI improvements are planned in future updates.
 
 ## Future Improvements
@@ -49,8 +49,6 @@ Through this project, I gained hands-on experience with:
 * Support for country flags across all available currencies
 * Enhanced user interface and user experience
 * Better error handling for API requests
-* Conversion history feature
-* Additional currency-related tools and features
 
 ## Author
 
