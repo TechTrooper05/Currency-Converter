@@ -90,14 +90,26 @@ input{
 }
 select {
     height: 5vmin;
-    width: 10vmin;
+    width: 12vmin;
     margin-top: 2%;
     border-radius: 0.45rem;
     font-size: 2vmin;
     background-color: rgba(255,255,255,0.6);
+    padding-left: 4vmin;
 }
 p {
     font-size: 2.5vmin;
+}
+.select-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.select-container img {
+    position: absolute;
+    width: 4vmin;
+    left: 0.5vmin;
 }
 @media (orientation: portrait){
     .content-box {
