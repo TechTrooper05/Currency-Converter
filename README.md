@@ -9,7 +9,8 @@ The project was created to strengthen my understanding of JavaScript, API integr
 * Real-time currency conversion
 * Dynamic currency selection
 * Live exchange rate data via API
-* Clean and user-friendly interface (Currently supports Laptop users only)
+* Fully responsive design for mobile, tablet, and desktop devices
+* Clean and user-friendly interface
 
 ## Technologies Used
 
@@ -38,14 +39,12 @@ Through this project, I gained hands-on experience with:
 
 ⚠️ This is the initial version of the project and is still under active development.
 
-* The layout is currently optimized primarily for laptop and desktop screen ratios.
 * The website may not display correctly on all mobile phones, tablets, or other screen sizes.
 * Country flag support is currently not available.
 * Further responsiveness and UI improvements are planned in future updates.
 
 ## Future Improvements
 
-* Fully responsive design for mobile, tablet, and desktop devices
 * Support for country flags across all available currencies
 * Enhanced user interface and user experience
 * Better error handling for API requests
