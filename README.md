@@ -9,7 +9,7 @@ The project was created to strengthen my understanding of JavaScript, API integr
 * Real-time currency conversion
 * Dynamic currency selection
 * Live exchange rate data via API
-* Fully responsive design for mobile, tablet, and desktop devices
+* Responsive design for mobile, tablet, and desktop devices
 * Clean and user-friendly interface
 
 ## Technologies Used
@@ -45,6 +45,7 @@ Through this project, I gained hands-on experience with:
 
 * Support for country flags across all available currencies
 * Better error handling for API requests
+* Better UI for all users
 
 ## Author
 
