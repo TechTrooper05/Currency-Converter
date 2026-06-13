@@ -21,8 +21,10 @@ body {
     align-items: center;
     flex-direction: column;
     border-radius: 5vmin;
-    box-shadow: 2vmin 2vmin 5vmin #2e4057;
+    /* box-shadow: 2vmin 2vmin 5vmin #2e4057; */
+    box-shadow: 0vmin 0vmin 5vmin 3vmin yellow;
 }
+
 .heading {
     align-self: flex-start;
     padding-left: 3vmin;
@@ -98,5 +100,38 @@ p {
     font-size: 2.5vmin;
 }
 @media (orientation: portrait){
-    
+    .content-box {
+        height: 90vmin;
+        width: 80vmin;
+    }
+    .heading {
+        font-size: 8vmin;
+    }
+    p {
+        font-size: 5vmin;
+    }
+    input {
+        width: 70vmin;
+        font-size: 4vmin;
+    }
+    select {
+        font-size: 4vmin;
+    }
+    #exchange-symbol{
+        font-size: 5vmin;
+    }
+    button {
+        height: 9vmin;
+        margin-top: 7vmin;
+    }
+    .conversion {
+        padding-top: 5vmin;
+    }
+    .amount {
+        padding-top: 7vmin;
+    }
+    .converted-val {
+        font-size: 4vmin;
+        padding-top: 6vmin;
+    }
 }
