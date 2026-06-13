@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(254, 215, 144);
+    background-image: url("world.jpg");
+    background-size: cover;
+}
+
+.content-box {
+    height: 70vmin;
+    width: 50vmin;
+    background-color: rgb(202, 255, 208, 0.55);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5vmin;
+    box-shadow: 2vmin 2vmin 5vmin #2e4057;
+}
+.heading {
+    align-self: flex-start;
+    padding-left: 3vmin;
+    font-size: 4.5vmin;
+    font-weight: bolder;
+    margin-top: 10vmin;
+    flex-wrap: wrap;
+}
+.amount {
+    align-self: flex-start;
+    padding-top: 5vmin;
+    padding-left: 3vmin;
+    /* align-self: center; */
+}
+.conversion {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-top: 4vmin;
+    padding-left: 3vmin;
+    /* align-self: center; */
+}
+#exchange-symbol {
+    padding-top: 4vmin;
+}
+.converted-val {
+    padding-top: 4vmin;
+    padding-left: 3vmin;
+    font-size: 2.75vmin;
+    font-weight: 75;
+    color: #08090A;
+    text-shadow: 0.06vmin 0.06vmin #08090A;
+    /* padding-left: 3.5vmin; */
+}
+button {
+    height: 7vmin;
+    width: 85%;
+    margin-top: 4vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2e4057;
+    color: white;
+    border: 1vmin solid transparent;
+    border-radius: 3vmin;
+    font-size: 2.5vmin;
+    align-self: center;
+}
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+input{
+    height: 5vmin;
+    width: 40vmin;
+    padding-left: 1.5vmin;
+    border-radius: 2vmin;
+    margin-top: 2%;
+    background-color: rgba(255,255,255,0.6);
+    font-size: 2vmin;
+}
+select {
+    height: 5vmin;
+    width: 10vmin;
+    margin-top: 2%;
+    border-radius: 0.45rem;
+    font-size: 2vmin;
+    background-color: rgba(255,255,255,0.6);
+}
+p {
+    font-size: 2.5vmin;
+}
+@media (orientation: portrait){
+    
+}
