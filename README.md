@@ -10,7 +10,6 @@ The project was created to strengthen my understanding of JavaScript, API integr
 * Dynamic currency selection
 * Live exchange rate data via API
 * Clean and user-friendly interface
-* Country flag support for selected currencies
 
 ## Technologies Used
 
