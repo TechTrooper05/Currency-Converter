@@ -39,14 +39,11 @@ Through this project, I gained hands-on experience with:
 
 ⚠️ This is the initial version of the project and is still under active development.
 
-* The website may not display correctly on all mobile phones, tablets, or other screen sizes.
 * Country flag support is currently not available.
-* Further responsiveness and UI improvements are planned in future updates.
 
 ## Future Improvements
 
 * Support for country flags across all available currencies
-* Enhanced user interface and user experience
 * Better error handling for API requests
 
 ## Author
