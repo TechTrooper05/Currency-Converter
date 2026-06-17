@@ -39,11 +39,8 @@ Through this project, I gained hands-on experience with:
 
 ⚠️ This is the initial version of the project and is still under active development.
 
-* Country flag support is currently not available.
-
 ## Future Improvements
 
-* Support for country flags across all available currencies
 * Better error handling for API requests
 * Better UI for all users
 
